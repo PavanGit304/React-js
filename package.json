@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "new-app1",
+=======
+  "name": "my-app",
+>>>>>>> 8076429728372a89dc6c0ea2b0b3830e89e6a093
   "version": "0.1.0",
   "private": true,
   "dependencies": {
